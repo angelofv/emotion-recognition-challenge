@@ -50,7 +50,7 @@ The performance of the model is assessed using accuracy as the metric, specifica
 ├── data.csv                # Data for the 318 images without emotion labels
 ├── em_recognition.ipynb    # Model development notebook
 ├── make_prediction.ipynb   # Notebook for generating predictions
-├── em_rc_model.keras       # Saved Trained model file
+├── em_rc_model.joblib       # Saved Trained model file
 └── predictions.csv         # Output file with predictions for the 318 images
 ```
 
